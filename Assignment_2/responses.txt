@@ -1,5 +1,5 @@
-1. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+1. Directories are the path for files and the nesting of its folders. Directories are related to files because files are structered through directories and you must navigate a directory in order to reach a file.
 
-2. Fusce pellentesque consequat justo, id tempus massa laoreet vel. Maecenas pulvinar ligula eu sem venenatis elementum.
+2. VCS, or version control systems, are useful because you can use them as a way to remember all the changes you have made.
 
-3. Nullam sodales gravida justo eget semper. Duis ut molestie arcu. Suspendisse accumsan in ligula a blandit.
+3. My favorite artistic medium would have to be painting because it is a fun and relaxing activity.
