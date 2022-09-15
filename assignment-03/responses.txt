@@ -1,0 +1,3 @@
+DNS stands for Domain Name System and its relationship to an IP address is that it translates domain names to it.
+Cookies are text files that contain small pieces of information and are used to identify you.
+URL or Uniform Resource Locator consists of three main parts which are the protocol, the domain, and the path. 
