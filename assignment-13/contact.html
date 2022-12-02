@@ -1,0 +1,97 @@
+<!DOCTYPE html>
+<html lang="en-us">
+<div class="website">
+
+<head>
+
+    <title>Favorite Artist</title>
+
+    <meta charset="UTF-8">
+    <meta name="description" content="Final Project">
+    <meta name="author" content="Brendan Elman">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <link rel="stylesheet" href="./css/fonts.css" type="text/css" />
+    <link rel="stylesheet" href="./css/style.css" type="text/css" />
+
+</head>
+
+<body>
+  <header>
+      <div class="site-name">
+          Vincent Van Gogh
+       </div>
+      <div class="menu-item">
+         <a href="index.html">Home</a>
+      </div>
+      <div class="menu-item">
+         <a href="about.html">About</a>
+      </div>
+      <div class="menu-item dropdown">
+         <a href="#">More</a>
+         <div class="dropdown-content">
+            <div class="dropdown-item">
+              <a href="paintings.html">Paintings</a>
+           </div>
+           <div class="dropdown-item">
+              <a href="facts.html">Interesting Facts</a>
+           </div>
+           <div class="dropdown-item" id="contact">
+              <a href="contact.html">Contact Us</a>
+            </div>
+         </div>
+      </div>
+   </header>
+
+   <div>
+       <h1>
+           Contact Us
+       </h1>
+
+       <hr/>
+
+       <br/>
+
+        <form method="POST" action="index.html">
+           <label for="name">
+             Name
+           </label>
+
+           <input type="text" id="name" placeholder="Enter your name" autofocus>
+
+
+           <br/>
+           <br/>
+
+
+           <label for="email">
+               Email
+           </label>
+           <input type="text" id="email">
+
+           <br/>
+           <br/>
+           <br/>
+
+           <label for="comments">
+               Comments:
+           </label>
+
+           <br/>
+           <br/>
+
+           <textarea name="comments" id="comments" rows="10" cols="92"></textarea>
+
+           <br/>
+           <br/>
+
+           <input type="submit" name="submit" value="Submit">
+        </form>
+   </div>
+
+   <footer>
+       <a href="#" id="footer-link">Back to top</a>
+   </footer>
+   
+</body>
+</html>
